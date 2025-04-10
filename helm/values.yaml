@@ -1,0 +1,7 @@
+image:
+  repository: docker.io/YOUR_DOCKER_USERNAME/youtube-clone-devops
+  tag: latest
+
+service:
+  type: ClusterIP
+  port: 80
